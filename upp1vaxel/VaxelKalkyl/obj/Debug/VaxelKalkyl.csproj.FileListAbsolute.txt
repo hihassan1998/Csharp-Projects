@@ -1,0 +1,10 @@
+C:\Users\hassa\source\repos\VaxelKalkyl\bin\Debug\VaxelKalkyl.exe.config
+C:\Users\hassa\source\repos\VaxelKalkyl\bin\Debug\VaxelKalkyl.exe
+C:\Users\hassa\source\repos\VaxelKalkyl\bin\Debug\VaxelKalkyl.pdb
+C:\Users\hassa\source\repos\VaxelKalkyl\obj\Debug\VaxelKalkyl.csproj.AssemblyReference.cache
+C:\Users\hassa\source\repos\VaxelKalkyl\obj\Debug\VaxelKalkyl.Form1.resources
+C:\Users\hassa\source\repos\VaxelKalkyl\obj\Debug\VaxelKalkyl.Properties.Resources.resources
+C:\Users\hassa\source\repos\VaxelKalkyl\obj\Debug\VaxelKalkyl.csproj.GenerateResource.cache
+C:\Users\hassa\source\repos\VaxelKalkyl\obj\Debug\VaxelKalkyl.csproj.CoreCompileInputs.cache
+C:\Users\hassa\source\repos\VaxelKalkyl\obj\Debug\VaxelKalkyl.exe
+C:\Users\hassa\source\repos\VaxelKalkyl\obj\Debug\VaxelKalkyl.pdb
