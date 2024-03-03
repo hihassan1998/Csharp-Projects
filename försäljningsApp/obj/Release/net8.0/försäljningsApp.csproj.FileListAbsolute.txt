@@ -1,0 +1,4 @@
+C:\Users\hassa\source\repos\försäljningsApp\obj\Release\net8.0\försäljningsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hassa\source\repos\försäljningsApp\obj\Release\net8.0\försäljningsApp.AssemblyInfoInputs.cache
+C:\Users\hassa\source\repos\försäljningsApp\obj\Release\net8.0\försäljningsApp.AssemblyInfo.cs
+C:\Users\hassa\source\repos\försäljningsApp\obj\Release\net8.0\försäljningsApp.csproj.CoreCompileInputs.cache

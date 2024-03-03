@@ -1,0 +1,7 @@
+Namn Persnr Distrikt Antal
+hasan 123456 LÅ 40
+1 säljare har nått nivå 1: under 50
+Awais 789123 Stockholm 120
+Abdullah 456789 PÅ 150
+2 säljare har nått nivå 3: 100-199
+

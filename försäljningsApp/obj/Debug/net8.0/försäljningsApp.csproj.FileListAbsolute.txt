@@ -1,0 +1,14 @@
+C:\Users\hassa\source\repos\försäljningsApp\bin\Debug\net8.0\försäljningsApp.exe
+C:\Users\hassa\source\repos\försäljningsApp\bin\Debug\net8.0\försäljningsApp.deps.json
+C:\Users\hassa\source\repos\försäljningsApp\bin\Debug\net8.0\försäljningsApp.runtimeconfig.json
+C:\Users\hassa\source\repos\försäljningsApp\bin\Debug\net8.0\försäljningsApp.dll
+C:\Users\hassa\source\repos\försäljningsApp\bin\Debug\net8.0\försäljningsApp.pdb
+C:\Users\hassa\source\repos\försäljningsApp\obj\Debug\net8.0\försäljningsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hassa\source\repos\försäljningsApp\obj\Debug\net8.0\försäljningsApp.AssemblyInfoInputs.cache
+C:\Users\hassa\source\repos\försäljningsApp\obj\Debug\net8.0\försäljningsApp.AssemblyInfo.cs
+C:\Users\hassa\source\repos\försäljningsApp\obj\Debug\net8.0\försäljningsApp.csproj.CoreCompileInputs.cache
+C:\Users\hassa\source\repos\försäljningsApp\obj\Debug\net8.0\försäljningsApp.dll
+C:\Users\hassa\source\repos\försäljningsApp\obj\Debug\net8.0\refint\försäljningsApp.dll
+C:\Users\hassa\source\repos\försäljningsApp\obj\Debug\net8.0\försäljningsApp.pdb
+C:\Users\hassa\source\repos\försäljningsApp\obj\Debug\net8.0\försäljningsApp.genruntimeconfig.cache
+C:\Users\hassa\source\repos\försäljningsApp\obj\Debug\net8.0\ref\försäljningsApp.dll

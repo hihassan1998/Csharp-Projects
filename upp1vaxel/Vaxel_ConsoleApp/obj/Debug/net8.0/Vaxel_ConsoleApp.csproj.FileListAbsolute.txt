@@ -12,3 +12,17 @@ C:\Users\hassa\source\repos\Vaxel_ConsoleApp\obj\Debug\net8.0\refint\Vaxel_Conso
 C:\Users\hassa\source\repos\Vaxel_ConsoleApp\obj\Debug\net8.0\Vaxel_ConsoleApp.pdb
 C:\Users\hassa\source\repos\Vaxel_ConsoleApp\obj\Debug\net8.0\Vaxel_ConsoleApp.genruntimeconfig.cache
 C:\Users\hassa\source\repos\Vaxel_ConsoleApp\obj\Debug\net8.0\ref\Vaxel_ConsoleApp.dll
+C:\Users\hassa\source\repos\upp1vaxel\Vaxel_ConsoleApp\bin\Debug\net8.0\Vaxel_ConsoleApp.exe
+C:\Users\hassa\source\repos\upp1vaxel\Vaxel_ConsoleApp\bin\Debug\net8.0\Vaxel_ConsoleApp.deps.json
+C:\Users\hassa\source\repos\upp1vaxel\Vaxel_ConsoleApp\bin\Debug\net8.0\Vaxel_ConsoleApp.runtimeconfig.json
+C:\Users\hassa\source\repos\upp1vaxel\Vaxel_ConsoleApp\bin\Debug\net8.0\Vaxel_ConsoleApp.dll
+C:\Users\hassa\source\repos\upp1vaxel\Vaxel_ConsoleApp\bin\Debug\net8.0\Vaxel_ConsoleApp.pdb
+C:\Users\hassa\source\repos\upp1vaxel\Vaxel_ConsoleApp\obj\Debug\net8.0\Vaxel_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hassa\source\repos\upp1vaxel\Vaxel_ConsoleApp\obj\Debug\net8.0\Vaxel_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\hassa\source\repos\upp1vaxel\Vaxel_ConsoleApp\obj\Debug\net8.0\Vaxel_ConsoleApp.AssemblyInfo.cs
+C:\Users\hassa\source\repos\upp1vaxel\Vaxel_ConsoleApp\obj\Debug\net8.0\Vaxel_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\hassa\source\repos\upp1vaxel\Vaxel_ConsoleApp\obj\Debug\net8.0\Vaxel_ConsoleApp.dll
+C:\Users\hassa\source\repos\upp1vaxel\Vaxel_ConsoleApp\obj\Debug\net8.0\refint\Vaxel_ConsoleApp.dll
+C:\Users\hassa\source\repos\upp1vaxel\Vaxel_ConsoleApp\obj\Debug\net8.0\Vaxel_ConsoleApp.pdb
+C:\Users\hassa\source\repos\upp1vaxel\Vaxel_ConsoleApp\obj\Debug\net8.0\Vaxel_ConsoleApp.genruntimeconfig.cache
+C:\Users\hassa\source\repos\upp1vaxel\Vaxel_ConsoleApp\obj\Debug\net8.0\ref\Vaxel_ConsoleApp.dll
