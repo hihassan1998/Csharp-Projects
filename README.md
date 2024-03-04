@@ -12,4 +12,6 @@
 
 
 ### Project # 3
+En windows forms application som kontrollerar om personnummret är gilltigt och kontrollerar kön på personen,visar personens information beroende på inmatning av Förnamn,Efternamn ,Personnummret och kön i resultatsfält med hjälp av Luhn algoritm
 ###  Windows Forms App
+![pnrVerify](https://github.com/hihassan1998/Csharp-Projects/assets/150392365/c315cafb-48a5-4cd7-9a90-2618ecc17fe4)
