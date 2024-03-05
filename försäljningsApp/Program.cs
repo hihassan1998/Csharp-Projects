@@ -13,9 +13,6 @@
 *
 * 
 * Av : Hassan Hussain
-* hashus-9
-* Kurs: L0002B
-* 
 * LULEÅ TEKNISKA UNIVERSITET
 * 
 */

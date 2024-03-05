@@ -9,7 +9,6 @@
  * Kan gör beräkningar på bara siffror 
  * 
  * Av: Hassan Hussain
- * Kurs : L002b
  * LULEÅ TEKNISKA UNIVERSITET
  * 
  * /*/

@@ -16,7 +16,6 @@
  * 
  * Av: Hassan Hussain
  * Kurs : L0002B
- * Mejl: hashus-9@student.ltu.se
  * 
  * LULEÅ TEKNISKA UNIVERSITET
  * 
