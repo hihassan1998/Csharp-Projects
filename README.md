@@ -19,10 +19,10 @@ Växel Beräknaren 1.0 is a Windows Console Application designed to calculate th
 
 # Project # 2
 ## Registrera Försljare - Console Application
-###Description:
+### Description:
 Registrera Försljare is a Windows Console Application designed to manage information for a group of salespersons. Users can input data about salespersons, such as name, personal identification number, district, and the number of sold items. The application utilizes the Bubble Sort algorithm to sort input data based on the number of sold items, categorizing salespersons into different levels.
 
-###Key Features:
+### Key Features:
 - User registration of salesperson data.
 - Sorting using the Bubble Sort algorithm.
 - Categorization of salespersons based on the number of sold items.
@@ -31,10 +31,10 @@ Registrera Försljare is a Windows Console Application designed to manage inform
 
 ## Project # 3
 ### Personnummer Verifikation - WindowsFormsApp
-###Description:
+### Description:
 Personnummer Verifikation is a Windows Forms Application developed for validating and extracting information from Swedish personal identification numbers. Users input the first name, last name, personal identification number, and gender. The application checks the validity of the personal identification number using the Luhn algorithm and displays information about the person, including their gender.
 
-###Key Features:
+### Key Features:
 - Validation of Swedish personal identification numbers.
 - Extraction of information based on user input.
 - Implementation of the Luhn algorithm for verification.
